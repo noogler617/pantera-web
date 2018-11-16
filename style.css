@@ -1,3 +1,12 @@
 body {
-  background: 
+  background: grey;
+}
+
+.logo {
+  background-image: url(/images/pantera-logo.png);
+}
+
+.row div {
+  padding: 20px 10px;
+  border: 1px solid;
 }
